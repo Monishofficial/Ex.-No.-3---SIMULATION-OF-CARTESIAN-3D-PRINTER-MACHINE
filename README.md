@@ -59,6 +59,12 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![Screenshot (24)](https://github.com/Monishofficial/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/149455421/b1101d82-95f7-400b-87c1-203e47003c6a)
+![Screenshot (23)](https://github.com/Monishofficial/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/149455421/94b0318e-37b0-4d31-b3d1-2e3569fb9243)
+![Screenshot (22)](https://github.com/Monishofficial/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/149455421/a4f43904-041d-41fd-8437-ceb5c4454d6a)
+![Screenshot (21)](https://github.com/Monishofficial/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/149455421/6aa26133-89fd-4970-9d25-faeac734f75d)
+![Screenshot (20)](https://github.com/Monishofficial/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/149455421/24957573-e546-440f-b1f6-f2334b77da33)
+
 
 ### Name: 
 ### Register Number:
